@@ -5,7 +5,7 @@ package pccu.src;
 	 import java.util.Scanner;
 	 public class ScannerCountFromFile{
 	 public static void main(String[] args) {
-	 Scanner scanner = null;
+	  Scanner scanner = null;
 	 int mSum = 0;
 	 int mAmount = 0;
 	 String mCustomer = "";
